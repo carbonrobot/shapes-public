@@ -1,2 +1,3 @@
-# shapes-public
-Public Issues repository for devshapes.com
+# devshapes.com
+
+This is the public issues repository for devshapes.com. Please submit bugs and feature requests here.
